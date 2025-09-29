@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shanm/OneDrive/Documents/SEM9/ST_lab/EX13/mlruns/308220393849316900/967f97ae82464483a7dccd0273dcc055/artifacts
+deleted_time: 1758533570862
+end_time: 1758532748775
+entry_point_name: ''
+experiment_id: '308220393849316900'
+lifecycle_stage: deleted
+run_id: 967f97ae82464483a7dccd0273dcc055
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758532735371
+status: 3
+tags: []
+user_id: SHEETHAL

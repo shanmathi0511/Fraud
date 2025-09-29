@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/shanm/OneDrive/Documents/SEM9/ST_lab/EX13/mlruns/308220393849316900/models/m-c05508f549bf46ef912333e0d72d3233/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-c05508f549bf46ef912333e0d72d3233
+model_size_bytes: 2999714
+model_uuid: m-c05508f549bf46ef912333e0d72d3233
+prompts: null
+run_id: 967f97ae82464483a7dccd0273dcc055
+utc_time_created: '2025-09-22 09:19:01.324886'

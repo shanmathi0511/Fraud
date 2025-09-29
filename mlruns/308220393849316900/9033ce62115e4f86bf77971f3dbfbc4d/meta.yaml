@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shanm/OneDrive/Documents/SEM9/ST_lab/EX13/mlruns/308220393849316900/9033ce62115e4f86bf77971f3dbfbc4d/artifacts
+deleted_time: 1758533570865
+end_time: 1758532735316
+entry_point_name: ''
+experiment_id: '308220393849316900'
+lifecycle_stage: deleted
+run_id: 9033ce62115e4f86bf77971f3dbfbc4d
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758532724197
+status: 3
+tags: []
+user_id: SHEETHAL

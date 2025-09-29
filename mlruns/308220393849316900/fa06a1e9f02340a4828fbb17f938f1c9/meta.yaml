@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shanm/OneDrive/Documents/SEM9/ST_lab/EX13/mlruns/308220393849316900/fa06a1e9f02340a4828fbb17f938f1c9/artifacts
+deleted_time: 1758533570868
+end_time: 1758532624699
+entry_point_name: ''
+experiment_id: '308220393849316900'
+lifecycle_stage: deleted
+run_id: fa06a1e9f02340a4828fbb17f938f1c9
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758532617961
+status: 3
+tags: []
+user_id: SHEETHAL

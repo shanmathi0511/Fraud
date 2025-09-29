@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/shanm/OneDrive/Documents/SEM9/ST_lab/EX13/mlruns/308220393849316900/0daaad89ee9044798c1c5a258ae0fb99/artifacts
+end_time: 1758533616897
+entry_point_name: ''
+experiment_id: '308220393849316900'
+lifecycle_stage: active
+run_id: 0daaad89ee9044798c1c5a258ae0fb99
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758533608756
+status: 3
+tags: []
+user_id: SHEETHAL

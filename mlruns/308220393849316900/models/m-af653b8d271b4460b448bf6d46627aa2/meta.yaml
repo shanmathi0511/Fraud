@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/shanm/OneDrive/Documents/SEM9/ST_lab/EX13/mlruns/308220393849316900/models/m-af653b8d271b4460b448bf6d46627aa2/artifacts
+creation_timestamp: 1758532618331
+experiment_id: '308220393849316900'
+last_updated_timestamp: 1758532624560
+model_id: m-af653b8d271b4460b448bf6d46627aa2
+model_type: null
+name: model
+source_run_id: fa06a1e9f02340a4828fbb17f938f1c9
+status: 2
+status_message: null
