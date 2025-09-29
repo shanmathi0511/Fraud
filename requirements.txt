@@ -2,3 +2,7 @@ mlflow
 scikit-learn
 xgboost
 numpy
+fastapi
+uvicorn
+pydantic
+
