@@ -87,4 +87,4 @@ def health():
 def predict(input_data: InputData):
     features_array = np.array([input_data.features])
     prediction = prod_model.predict(features_array)
-    return {"prediction": int(prediction[0])}\
+    return {"prediction": int(prediction[0])}
